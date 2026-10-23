@@ -1,0 +1,13 @@
+PX-200 Pressure Sensor User Manual (sample document)
+
+Overview. The PX-200 is an industrial pressure sensor designed for hydraulic and pneumatic systems. It measures pressure from 0 to 400 bar and outputs a 4-20 mA signal. The housing is made of stainless steel and is rated IP67, which means it is protected against dust and temporary immersion in water.
+
+Installation. Before installing the sensor, depressurize the system and switch off the power supply. Apply thread sealant to the G1/4 process connection and tighten to a torque of 25 Newton-metres. Do not over-tighten, because excessive torque can deform the sensing diaphragm. Connect the red wire to the positive supply and the black wire to the signal output. The supply voltage must be between 10 and 30 volts DC.
+
+Calibration. The sensor is factory calibrated, and recalibration is recommended every 12 months. To calibrate, apply zero pressure and adjust the zero screw until the output reads 4 mA. Then apply the full-scale pressure of 400 bar and adjust the span screw until the output reads 20 mA. Record the calibration date in the maintenance log.
+
+Maintenance. Inspect the sensor every six months for corrosion, cable damage, and leaks around the process connection. Clean the housing with a damp cloth. Never use sharp objects to clean the pressure port, because they can damage the diaphragm. If the sensor is exposed to pressure above 600 bar, it must be replaced.
+
+Troubleshooting. If the output signal is stuck at 4 mA, check that the supply voltage is within the allowed range and that the wiring is correct. If the output reads below 3.6 mA, the sensor has detected a fault and should be returned for service. If the readings drift over time, recalibrate the sensor. Operating temperature range is minus 40 to plus 85 degrees Celsius. Using the sensor outside this range may cause inaccurate readings.
+
+Warranty. The PX-200 carries a warranty of 24 months from the date of purchase. The warranty does not cover damage caused by over-pressure, incorrect wiring, or use outside the specified temperature range.
