@@ -40,10 +40,10 @@ python evaluate.py
 ## Results
 | Setup | Questions | Hit rate @3 |
 |-------|-----------|-------------|
-| TF-IDF baseline | [N] | [X]% |
-| MiniLM + FAISS  | [N] | [X]% |
+| TF-IDF baseline | 8 | 88% |
+| MiniLM + FAISS  | 8 | 100% |
 
-(Run `evaluate.py` with and without `sentence-transformers` installed and fill in your measured numbers.)
+Evaluated on 8 questions over one sample manual, so this is a small test set. Semantic search found the right passage for every question, while TF-IDF missed one because it doesn't link related word forms (e.g. "recalibrated" vs "recalibration").
 
 ## Known limitations
 - Word-based chunking ignores document structure (tables, headings)
