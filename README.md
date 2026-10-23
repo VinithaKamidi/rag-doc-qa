@@ -35,7 +35,7 @@ Put your own PDFs/TXT files in `data/` and restart the server to query them.
 pytest -q
 python evaluate.py
 ```
-`evaluate.py` reports a retrieval **hit rate**. Add more questions on your own documents, then record the real result below.
+`evaluate.py` reports a retrieval **hit rate**. 
 
 ## Results
 | Setup | Questions | Hit rate @3 |
